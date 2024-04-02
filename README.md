@@ -5,7 +5,7 @@ Plant disease detection using Convolutional Neural Networks (CNNs) is an effecti
 **1. Data Collection:**
    - Gather a dataset of plant images that include both healthy and diseased plants. You can find publicly available datasets or create your own by taking pictures of plants.
    - hello
-
+helolooooooooo
 **2. Data Preprocessing:**
    - Resize all images to a consistent size (e.g., 224x224 pixels).
    - Normalize pixel values to a common range (usually [0, 1] or [-1, 1]).
